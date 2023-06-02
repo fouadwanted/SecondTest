@@ -1,5 +1,6 @@
-using SecondTest.API.Data;
-using SecondTest.API.Entities;
+using SecondTest.Service;
+using SecondTest.DAL.Entities;
+using SecondTest.DAL;
 
 namespace SecondTest.TEST
 {

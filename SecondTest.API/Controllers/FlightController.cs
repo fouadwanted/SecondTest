@@ -1,7 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
-using SecondTest.API.Data;
-using SecondTest.API.Services;
-using SecondTest.API.Entities;
+using SecondTest.Service;
+using SecondTest.DAL.Entities;
 
 namespace SecondTest.API.Controllers
 {

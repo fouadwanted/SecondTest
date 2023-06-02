@@ -1,7 +1,6 @@
-﻿using SecondTest.API.Data;
-using SecondTest.API.Entities;
-
-namespace SecondTest.API.Services
+﻿using SecondTest.DAL;
+using SecondTest.DAL.Entities;
+namespace SecondTest.Service
 {
     public class FlightService
     {

@@ -1,6 +1,5 @@
-﻿using SecondTest.API.Entities;
-
-namespace SecondTest.API.Data
+﻿using SecondTest.DAL.Entities;
+namespace SecondTest.DAL
 {
     public class AirportRepository
     {

@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace SecondTest.API.Entities
+namespace SecondTest.DAL.Entities
 {
     public class Flight
     {

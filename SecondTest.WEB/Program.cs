@@ -1,4 +1,4 @@
-using SecondTest.API.Services;
+using SecondTest.Service;
 
 var builder = WebApplication.CreateBuilder(args);
 

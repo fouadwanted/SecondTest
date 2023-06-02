@@ -23,7 +23,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SecondTest.API\SecondTest.API.csproj" />
+    <ProjectReference Include="..\SecondTest.DataAccess\SecondTest.DAL.csproj" />
+    <ProjectReference Include="..\SecondTest.Service\SecondTest.Service.csproj" />
   </ItemGroup>
 
 </Project>

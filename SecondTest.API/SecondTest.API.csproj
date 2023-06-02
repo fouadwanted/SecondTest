@@ -10,4 +10,9 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SecondTest.DataAccess\SecondTest.DAL.csproj" />
+    <ProjectReference Include="..\SecondTest.Service\SecondTest.Service.csproj" />
+  </ItemGroup>
+
 </Project>

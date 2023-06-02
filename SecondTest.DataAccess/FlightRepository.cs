@@ -1,6 +1,6 @@
-﻿using SecondTest.API.Entities;
+﻿using SecondTest.DAL.Entities;
 
-namespace SecondTest.API.Data
+namespace SecondTest.DAL
 {
     public class FlightRepository
     {
